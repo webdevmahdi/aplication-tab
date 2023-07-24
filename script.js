@@ -1,5 +1,5 @@
 let putElements = () => {
-    let storageID = document.getElementById('storage-keys');
+    let storageID = document.getElementById('storage-key');
     let idContent = storageID.value;
     let storageValues = document.getElementById('storage-values');
     let valuesContent = storageValues.value;
